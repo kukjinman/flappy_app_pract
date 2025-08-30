@@ -540,6 +540,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::birdjump
   jumpForce: 3.5
+  jumpAction:
+    m_Name: Jump
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: cbf8f13e-3c1f-4e31-9738-865041917343
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
 --- !u!114 &1096214750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -567,7 +576,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Keyboard&Mouse
-  m_DefaultActionMap: bc53c4a2-43c4-422f-9569-f2696de265b7
+  m_DefaultActionMap: PC
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1 &1560418786
